@@ -14,7 +14,6 @@ import {
   Row,
   Col,
 } from "reactstrap";
-import Chart from "chart.js";
 import ColorNavbar from "components/Navbars/ColorNavbar.jsx";
 import DemoFooter from "components/Footers/DemoFooter.jsx";
 import { Bar } from "react-chartjs-2";
