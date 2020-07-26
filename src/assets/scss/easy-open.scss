@@ -1,0 +1,128 @@
+@import "easy-open/custom/functions";
+@import "easy-open/bootstrap/functions";
+
+@import "easy-open/variables";
+@import "easy-open/bootstrap/variables";
+
+@import "easy-open/custom/mixins";
+@import "easy-open/bootstrap/mixins";
+
+// Bootstrap components
+
+@import "easy-open/bootstrap/root";
+@import "easy-open/bootstrap/reboot";
+@import "easy-open/bootstrap/type";
+@import "easy-open/bootstrap/images";
+@import "easy-open/bootstrap/code";
+@import "easy-open/bootstrap/grid";
+@import "easy-open/bootstrap/tables";
+@import "easy-open/bootstrap/forms";
+@import "easy-open/bootstrap/buttons";
+@import "easy-open/bootstrap/transitions";
+@import "easy-open/bootstrap/dropdown";
+@import "easy-open/bootstrap/button-group";
+@import "easy-open/bootstrap/input-group";
+@import "easy-open/bootstrap/custom-forms";
+@import "easy-open/bootstrap/nav";
+@import "easy-open/bootstrap/navbar";
+@import "easy-open/bootstrap/card";
+@import "easy-open/bootstrap/breadcrumb";
+@import "easy-open/bootstrap/pagination";
+@import "easy-open/bootstrap/badge";
+@import "easy-open/bootstrap/jumbotron";
+@import "easy-open/bootstrap/alert";
+@import "easy-open/bootstrap/progress";
+@import "easy-open/bootstrap/media";
+@import "easy-open/bootstrap/list-group";
+@import "easy-open/bootstrap/close";
+@import "easy-open/bootstrap/modal";
+@import "easy-open/bootstrap/tooltip";
+@import "easy-open/bootstrap/popover";
+@import "easy-open/bootstrap/carousel";
+@import "easy-open/bootstrap/utilities";
+@import "easy-open/bootstrap/print";
+
+// Custom components
+
+@import "easy-open/custom/alerts.scss";
+@import "easy-open/custom/buttons.scss";
+@import "easy-open/custom/dropdown.scss";
+@import "easy-open/custom/footer.scss";
+@import "easy-open/custom/forms.scss";
+@import "easy-open/custom/images.scss";
+@import "easy-open/custom/modal.scss";
+@import "easy-open/custom/navbar.scss";
+@import "easy-open/custom/type.scss";
+@import "easy-open/custom/icons.scss";
+@import "easy-open/custom/checkboxes-radio";
+@import "easy-open/custom/fixed-plugin";
+@import "easy-open/custom/pagination.scss";
+@import "easy-open/custom/misc.scss";
+@import "easy-open/custom/rtl.scss";
+@import "easy-open/custom/input-group.scss";
+@import "easy-open/custom/progress.scss";
+@import "easy-open/custom/badge.scss";
+@import "easy-open/custom/pills.scss";
+@import "easy-open/custom/tabs.scss";
+@import "easy-open/info-areas.scss";
+@import "easy-open/misc-extend.scss";
+@import "easy-open/sections-extend.scss";
+@import "easy-open/footers.scss";
+@import "easy-open/tables.scss";
+
+// Pro components
+
+@import "easy-open/example-pages.scss";
+@import "easy-open/social-buttons.scss";
+@import "easy-open/media.scss";
+@import "easy-open/modals-extend.scss";
+@import "easy-open/navbar-extend.scss";
+@import "easy-open/buttons-extend.scss";
+@import "easy-open/pills-extend.scss";
+@import "easy-open/dropdown-extend.scss";
+
+// Sections
+@import "easy-open/custom/sections.scss";
+
+// Vendor / Plugins
+
+@import "easy-open/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "easy-open/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "easy-open/custom/vendor/plugin-bootstrap-switch.scss";
+@import "easy-open/custom/vendor/plugin-nouislider.scss";
+@import "easy-open/custom/vendor/plugin-datetimepicker.scss";
+@import "easy-open/plugins/plugin-tagsinput.scss";
+@import "easy-open/plugins/plugin-bootstrap-select";
+@import "easy-open/plugins/plugin-jasny-fileupload.scss";
+@import "easy-open/plugins/plugin-carousel-slick.scss";
+
+// Cards
+
+@import "easy-open/custom/card";
+@import "easy-open/custom/cards/card-chart";
+@import "easy-open/custom/cards/card-map";
+@import "easy-open/custom/cards/card-user";
+@import "easy-open/custom/cards/card-task";
+@import "easy-open/custom/cards/card-plain";
+@import "easy-open/custom/cards/card-register";
+@import "easy-open/custom/cards/card-stats";
+@import "easy-open/custom/cards/card-chart";
+@import "easy-open/cards/card-background";
+@import "easy-open/cards/card-blog";
+@import "easy-open/cards/card-profile";
+@import "easy-open/cards/card-pricing";
+@import "easy-open/cards/card-login";
+@import "easy-open/cards/card-testimonials";
+@import "easy-open/cards/card-product";
+
+// Avatars
+
+@import "easy-open/avatars/avatar-group";
+@import "easy-open/avatars/avatar";
+
+// Responsive
+
+@import "easy-open/responsive";
+
+// React Differences
+@import "easy-open/react/react-differences";
